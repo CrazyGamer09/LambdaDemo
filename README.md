@@ -1,7 +1,6 @@
 # Welcome to your CDK JavaScript project / Demo lambda project
 
-You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`LambdaCdkStack`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
+Some demo code for lambda function, describing lambda version, attaching alias name and creating a sample layer.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app. The build step is not required when using JavaScript.
 
