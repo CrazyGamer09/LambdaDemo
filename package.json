@@ -14,6 +14,8 @@
     "jest": "^27.5.1"
   },
   "dependencies": {
+    "@aws-cdk/aws-lambda": "^1.170.0",
+    "@aws-cdk/core": "^1.170.0",
     "aws-cdk-lib": "2.38.0",
     "constructs": "^10.0.0"
   }
